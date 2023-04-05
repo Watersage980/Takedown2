@@ -7,7 +7,7 @@ h1 {
     margin-left: 30%;
     font-size: 100px;
     color: white;
-    /*animation: color-change 1s infinite;*/
+    animation: color-change 1s infinite;
 }
 
 .troll img {
@@ -15,10 +15,10 @@ h1 {
     margin-left: 35%;
 }
 
-/*@keyframes color-change {
+@keyframes color-change {
     0% { color: red; }
     25% { color: rgb(0, 255, 76); }
     50% { color: rgb(47, 0, 255); }
     75% { color: rgb(0, 255, 76); }
     100% { color: red; }
-  }*/
+  }
